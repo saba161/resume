@@ -4,7 +4,7 @@ build_script:
   - ps: ./makepdf.ps1
 artifacts: 
   - path: ./Saba Koghuashvili CV.pdf
-    name: Saba Koghuashvili CV.pdf
+    name: Saba Koghuashvili CV.pdf 
     type: file
 deploy:
   release: Saba Koghuashvili CV v$(appveyor_build_version)
