@@ -8,6 +8,7 @@
 
 #### Sofrware Enginering/Development/Managment Skills
 
+- **Paradigms**: OOP
 - **Languages:** C#, Javascript, T-SQL
 - **Back-Eend:** .NET Framework (MVC/WebApi/EF Code First/LINQ/Async), .NET Core, Dapper
 - **Front-End:** ReactJS
