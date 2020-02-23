@@ -10,7 +10,7 @@
 
 - **Paradigms**: OOP
 - **Languages:** C#, Javascript, T-SQL
-- **Back-Eend:** .NET Framework (MVC/WebApi/EF Code First/LINQ/Async), .NET Core, Dapper
+- **Back-Eend:** .NET Framework (MVC/WebApi/EF Code First/LINQ/Async), .NET Core, Dapper, Nunit Test
 - **Front-End:** ReactJS
 - **Configuration Managment Tools**: Bash Scripting
 - **Tools:** Docker, MSSQL, Git
