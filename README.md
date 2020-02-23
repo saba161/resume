@@ -6,7 +6,7 @@
 **Experience: 1 year** <br/>
 [Email](mailto:sabakoguashvili16@gmail.com), [Github](https://github.com/saba161),  [Linkedin](https://www.linkedin.com/in/saba-koghuashvili-7ba679154/)
 
-#### Sofrware Enginering/Development/Managment Skills
+#### Development/Managment Skills
 
 - **Paradigms**: OOP
 - **Languages:** C#, Javascript, T-SQL
