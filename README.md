@@ -15,3 +15,7 @@
 - **Configuration Managment Tools**: Bash Scripting
 - **Tools:** Docker, MSSQL, Git
 - **DevTools:** Visual Studio, VS Code
+
+### Work experience
+- **Front-End Developer**: Circle
+- **.Net Developer**: BetSolution, BetLive
