@@ -6,12 +6,12 @@
 
 🚀 Paradigms: OOP <br />
 📝 Languages: C#, Javascript, T-SQL <br />
-🔙 Back-End: .Net Framework (MVC / WebApi / EF Core First / LINQ / Async), .Net Core, ADO.NET, Dapper, Nunit Test 
-🎨 Front-End: ReactJS 
-🔧 Configuration Management Tools: Bash Scripting 
-🛠️ Tools: Docker, MSSQL, Git 
-🔨 DevTools: Visual Studio, VS Code 
-📚 GitHub: [https://github.com/saba161](https://github.com/saba161)
+🔙 Back-End: .Net Framework (MVC / WebApi / EF Core First / LINQ / Async), .Net Core, ADO.NET, Dapper, Nunit Test <br />
+🎨 Front-End: ReactJS <br />
+🔧 Configuration Management Tools: Bash Scripting <br />
+🛠️ Tools: Docker, MSSQL, Git <br />
+🔨 DevTools: Visual Studio, VS Code <br /> 
+📚 GitHub: [https://github.com/saba161](https://github.com/saba161) <br />
 
 ## Employment
 
