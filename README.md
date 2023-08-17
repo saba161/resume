@@ -15,7 +15,7 @@
 
 ## Employment
 
-### Crystal, Tbilisi, Georgia - 7 months (Present)
+### Crystal, Tbilisi, Georgia - Present
 
 **Position: Software Developer**
 
