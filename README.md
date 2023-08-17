@@ -1,6 +1,6 @@
 # .NET Developer
 
-📧 Email: sabakoguashvili16@gmail.com 📱 Cell: 591 17 15 18
+📧 Email: sabakoguashvili16@gmail.com <br /> 📱 Cell: 591 17 15 18
 
 ## Development/Management Skills
 
