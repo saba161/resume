@@ -1,17 +1,16 @@
 # .NET Developer
 
-📧 Email: sabakoguashvili16@gmail.com
-📱 Cell: 591 17 15 18
+📧 Email: sabakoguashvili16@gmail.com 📱 Cell: 591 17 15 18
 
 ## Development/Management Skills
 
-🚀 Paradigms: OOP
-📝 Languages: C#, Javascript, T-SQL
-🔙 Back-End: .Net Framework (MVC / WebApi / EF Core First / LINQ / Async), .Net Core, ADO.NET, Dapper, Nunit Test
-🎨 Front-End: ReactJS
-🔧 Configuration Management Tools: Bash Scripting
-🛠️ Tools: Docker, MSSQL, Git
-🔨 DevTools: Visual Studio, VS Code
+🚀 Paradigms: OOP 
+📝 Languages: C#, Javascript, T-SQL 
+🔙 Back-End: .Net Framework (MVC / WebApi / EF Core First / LINQ / Async), .Net Core, ADO.NET, Dapper, Nunit Test 
+🎨 Front-End: ReactJS 
+🔧 Configuration Management Tools: Bash Scripting 
+🛠️ Tools: Docker, MSSQL, Git 
+🔨 DevTools: Visual Studio, VS Code 
 📚 GitHub: [https://github.com/saba161](https://github.com/saba161)
 
 ## Employment
