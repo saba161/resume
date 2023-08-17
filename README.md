@@ -6,7 +6,9 @@
 ## Development/Management Skills
 
 🚀 Paradigms: OOP
+
 📝 Languages: C#, Javascript, T-SQL
+
 🔙 Back-End: .Net Framework (MVC / WebApi / EF Core First / LINQ / Async), .Net Core, ADO.NET, Dapper, Nunit Test
 🎨 Front-End: ReactJS
 🔧 Configuration Management Tools: Bash Scripting
